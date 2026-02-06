@@ -1,6 +1,6 @@
 # Paldo ALM (Adaptive Learning Machine) 🧠📈
 
-**Paldo ALM** is a sophisticated, PyQt5-based algorithmic trading bot designed for MetaTrader 5. It utilizes an ensemble of machine learning models (Gradient Boosting, Random Forest, MLP) and custom logic engines ("Quantum", "Nexus", "GenZig") to execute high-probability scalping and swing trades.
+**Paldo ALM** is a sophisticated experimental, PyQt5-based algorithmic trading bot designed for MetaTrader 5. It utilizes an ensemble of machine learning models (Gradient Boosting, Random Forest, MLP) and custom logic engines ("Quantum", "Nexus", "GenZig") to execute high-probability scalping and swing trades.
 
 ![Status](https://img.shields.io/badge/Status-Beta-blue)
 ![Platform](https://img.shields.io/badge/Platform-MetaTrader5-green)
